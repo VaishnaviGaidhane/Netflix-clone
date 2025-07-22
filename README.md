@@ -1,17 +1,26 @@
 🎬 Netflix Clone
 
+
 A responsive, visually rich Netflix Clone built using modern web technologies. This project replicates the core UI and UX of Netflix — including the homepage, featured banners, movie lists, and hover effects.
 
 ✨ Features
 
+
 ✅ Responsive Netflix-like homepage
+
 ✅ Movie posters displayed in horizontal rows
+
 ✅ Featured banner with background image
+
 ✅ Trailer preview button 
+
 ✅ Scrollable movie rows.
+
 ✅ Clean and consistent dark theme
 
+
 💻 Tech Stack
+
 
 | Frontend                    | Tools / APIs / Database               |
 | --------------------------- | ------------------------------------- |
